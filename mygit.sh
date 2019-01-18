@@ -1,6 +1,6 @@
 # git init
 
-git add *.cpp *.h *.sh 贪吃蛇* *.txt res/
+git add *.cpp *.h *.sh 贪吃蛇* *.txt res/ */
 
 git status
 
